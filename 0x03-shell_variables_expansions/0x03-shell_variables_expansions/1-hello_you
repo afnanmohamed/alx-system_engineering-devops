@@ -1,3 +1,2 @@
 #!/bin/bas
-$user="afnan"
-echo hello $user
+echo " hello $user"
